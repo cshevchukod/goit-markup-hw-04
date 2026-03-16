@@ -1,0 +1,9 @@
+:root {
+  --primary-font: "Roboto", sans-serif;
+  --primary-color: #434455;
+  --secondary-color: #2e2f42;
+  --logo-color: #4d5ae5;
+  --card-background: #ffffff;
+  --footer-text: #f4f4fd;
+  --link-hover: #404bbf;
+}
