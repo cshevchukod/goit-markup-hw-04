@@ -1,6 +1,7 @@
 :root {
   --primary-font: "Roboto", sans-serif;
   --primary-color: #434455;
+  --secondary-font: "Raleway", sans-serif;
   --secondary-color: #2e2f42;
   --logo-color: #4d5ae5;
   --card-background: #ffffff;
@@ -31,7 +32,7 @@ a {
 /* logo */
 
 .logo {
-  font-family: "Raleway", sans-serif;
+  font-family: var(--secondary-font);
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
